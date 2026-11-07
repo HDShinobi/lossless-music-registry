@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-06-21",
+  "updated_at": "2026-11-07",
   "repos": [
     {
-      "name": "SpotiFLAC Community",
-      "url": "https://raw.githubusercontent.com/spotiflacapp/SpotiFLAC-Extension/main/registry.json",
-      "maintainer": "spotiflacapp",
+      "name": "Mornye Community",
+      "url": "https://raw.githubusercontent.com/mornyeapp/Mornye-Extension/main/registry.json",
+      "maintainer": "mornyeapp",
       "verified": false
     }
   ]
